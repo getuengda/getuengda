@@ -9,8 +9,8 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebyouchaka&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebyouchaka)](https://github.com/Nebyouchaka/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getuengda&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getuengda)](https://github.com/getuengda/github-readme-stats)
 
 
 ## Most usable Software technology in my codes

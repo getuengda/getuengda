@@ -2,9 +2,9 @@
 <div style="text-align: justify margin-bottom: 6px">
     Hello! My name is Getu Taddesse, and I'm a software engineer with expertise in full-stack development.
     Proactive and multidisciplinary Software Engineer with experience in full-stack software developemnt and research. 
-    With 1+ years of experience as a Java and React developer, and +10 years as a Information Technology expert 
+    With 2+ years of experience as a Java, JavaScrips and React developer, and +10 years as a Information Technology expert 
     and researcher in Geo-information analysis. Passionate about learning new technologies and staying up-to-date
-    with industry trends. Seeking a Software developer position to contribute to company's goals and push the boundaries
+    with industry trends. Seeking a Full stack Software developer position to contribute to company's goals and push the boundaries
     of technology. Thrives on new challenges and dedicated to delivering value-added products on time.
 </div>
 
